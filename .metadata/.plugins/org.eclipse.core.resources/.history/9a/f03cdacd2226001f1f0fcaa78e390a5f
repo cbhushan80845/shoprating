@@ -1,0 +1,11 @@
+package com.example.demo.model;
+
+public class Rating {
+	
+	private Long ratingId;
+	private Long userId;
+	private Long hotelId;
+	private Long rating;
+	private String remarks;
+
+}
